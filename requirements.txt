@@ -1,0 +1,8 @@
+httpx
+selectolax
+pandas
+pymongo
+nest_asyncio
+google-api-python-client
+isodate
+python-dotenv
